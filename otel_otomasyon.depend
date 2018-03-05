@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450176156 source:c:\users\emre\desktop\otel_otomasyon\otel_otomasyon\main.c
+	<stdio.h>
+	<stdlib.h>
+
